@@ -1,0 +1,8 @@
+{
+  "name": "Recipe Finder App",
+  "description": "A feature-rich Flutter application for browsing, searching, and saving recipes from TheMealDB API, featuring advanced filtering, offline favorites with Hive, and YouTube integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

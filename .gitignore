@@ -1,0 +1,27 @@
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android
+.gradle/
+local.properties
+*.keystore
+*.jks
+*.properties
+java_res/
+
+# iOS
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+Pods/
+ServiceDefinitions.json
+Runner/GeneratedPluginRegistrant.h
+Runner/GeneratedPluginRegistrant.m
+
+# Web
+.last_build_id
