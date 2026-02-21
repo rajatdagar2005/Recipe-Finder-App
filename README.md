@@ -3,6 +3,8 @@
 
 A high-quality Flutter application for browsing and managing recipes using TheMealDB API.
 
+## APP APK  - https://drive.google.com/file/d/1CebFJbTFerEXw5DA3AYJzVGKikxWMedh/view?usp=sharing
+
 
 <img width="380" height="806" alt="Screenshot 2026-01-21 115709" src="https://github.com/user-attachments/assets/b389bea1-cc9b-4a95-84e5-ea097aba7037" />
 <img width="386" height="811" alt="Screenshot 2026-01-21 115634" src="https://github.com/user-attachments/assets/10821325-df09-4d61-9dc6-1dc27f08534a" />
